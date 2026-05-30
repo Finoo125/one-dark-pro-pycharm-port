@@ -1,6 +1,6 @@
 {
-  "name": "One Dark Pro Pycharm Port",
-  "author": "Binaryify palette, PyCharm port by Fino",
+  "name": "One Dark Pro Port",
+  "author": "Binaryify palette, JetBrains port by Fino",
   "dark": true,
   "editorScheme": "/theme/one-dark-pro.xml",
   "parentTheme": "Darcula",

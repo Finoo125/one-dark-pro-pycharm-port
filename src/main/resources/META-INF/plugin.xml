@@ -1,11 +1,11 @@
 <idea-plugin>
   <id>com.github.copilot.onedarkpro</id>
-  <name>One Dark Pro Pycharm Port</name>
+  <name>One Dark Pro Port</name>
   <vendor>Fino</vendor>
   <description><![CDATA[
-    A close PyCharm port of Binaryify's VS Code One Dark Pro theme with matching UI chrome and editor colors tuned for daily use.
+    A close JetBrains port of Binaryify's VS Code One Dark Pro theme with matching UI chrome and editor colors tuned for daily use.
   ]]></description>
-  <version>1.1.0</version>
+  <version>1.1.1</version>
   <idea-version since-build="241" />
   <depends>com.intellij.modules.platform</depends>
   <category>UI</category>

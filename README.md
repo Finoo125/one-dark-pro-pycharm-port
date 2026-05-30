@@ -1,4 +1,4 @@
-# One Dark Pro Pycharm Port
+# One Dark Pro Port
 
 This project ports the VS Code **OneDark-Pro** theme by [Binaryify](https://github.com/Binaryify/OneDark-Pro) to the IntelliJ Platform as a single PyCharm-focused release built around the core One Dark Pro look.
 
@@ -24,7 +24,7 @@ The packaged plugin will be written to `dist\`.
 2. Open **Settings** -> **Plugins** -> the gear icon -> **Install Plugin from Disk...**
 3. Select the jar from `dist\`.
 4. Restart PyCharm.
-5. Select **One Dark Pro Pycharm Port** in **Settings** -> **Appearance & Behavior** -> **Appearance**.
+5. Select **One Dark Pro Port** in **Settings** -> **Appearance & Behavior** -> **Appearance**.
 
 ## Notes
 

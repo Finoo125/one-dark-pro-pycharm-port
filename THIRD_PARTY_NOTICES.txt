@@ -1,4 +1,4 @@
-One Dark Pro Pycharm Port includes a color palette and visual direction derived from:
+One Dark Pro Port includes a color palette and visual direction derived from:
 
   OneDark-Pro
   Copyright (c) Binaryify
